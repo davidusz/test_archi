@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Map View"
+    id="ae6ebda3">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="2141247c">
+    <bounds
+        x="20"
+        y="20"
+        width="400"
+        height="100"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_03ceb8ea.xml#03ceb8ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="eecd1d12">
+    <bounds
+        x="20"
+        y="140"
+        width="400"
+        height="100"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_951e298e.xml#951e298e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="6246a198">
+    <bounds
+        x="20"
+        y="260"
+        width="400"
+        height="100"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_22786dc1.xml#22786dc1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
