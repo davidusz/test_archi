@@ -295,15 +295,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="932621a3"
         targetConnections="87a66829 53649919">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="f0d96522"
-          source="932621a3"
-          target="1ad8332d">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_0a4fa37c.xml#0a4fa37c"/>
-      </sourceConnections>
       <bounds
           x="1392"
           y="108"
@@ -316,7 +307,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1ad8332d"
-        targetConnections="d11ad784 f0d96522 b771107d">
+        targetConnections="d11ad784 b771107d">
       <bounds
           x="1608"
           y="108"
