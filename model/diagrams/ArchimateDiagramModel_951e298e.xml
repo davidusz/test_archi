@@ -15,29 +15,8 @@
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="11418373">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0b967b8f"
-          source="11418373"
-          target="405bc21c">
-        <archimateRelationship
-            xsi:type="archimate:TriggeringRelationship"
-            href="TriggeringRelationship_eff75ee2.xml#eff75ee2"/>
-      </sourceConnections>
-      <bounds
-          x="12"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessEvent"
-          href="BusinessEvent_44e2d629.xml#44e2d629"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="405bc21c"
-        targetConnections="0b967b8f 8a785e83">
+        targetConnections="8a785e83">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="72189ca8"
